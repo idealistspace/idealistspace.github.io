@@ -1,3 +1,12 @@
 body {
-  font-size: 10em;
+  height: 40rem;
+  font-family: "SF UI Display", sans-serif;
+  color: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header {
+  margin: 0 auto;
+  font-size: 5em;
 }
